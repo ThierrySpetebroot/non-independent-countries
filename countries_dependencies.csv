@@ -1,0 +1,56 @@
+DEPENDENT_COUNTRY;COUNTRY;RELATIONSHIP;SEEKS_INDEPENDENCE;DISPUTED_TERRITORY
+AX;FI;Finnish Autonomous Region;False;False
+AS;US;US Insular Area;False;False
+AI;GB;British Overseas Territory;False;False
+AQ;;Antarctic Treaty System;False;False
+AW;NL;Dutch Constituent Country;False;False
+BM;GB;British Overseas Territory;False;False
+BQ;NL;Dutch Special Municipality;False;False
+BV;NO;Dependent territory of Norway;False;False
+IO;GB;British Overseas Territory;False;False
+KY;GB;British Overseas Territory;False;False
+CX;AU;Australian External Territory;False;False
+CC;AU;Australian External Territory;False;False
+CK;NZ;Associated State;False;False
+CW;NL;Dutch Constituent Country;False;False
+FK;GB;British Overseas Territory;False;True
+FO;DK;Danish Constituent Country;False;False
+GF;FR;French Overseas Department and Region;False;False
+PF;FR;French Overseas Collectivity;False;False
+TF;FR;French Overseas Territory;False;False
+GI;GB;British Overseas Territory;False;False
+GL;DK;Danish Constituent Country;False;False
+GP;FR;French Overseas Department and Region;False;False
+GU;US;US Insular Area;False;False
+GG;GB;Crown Dependency of the British Crown;False;False
+HM;AU;Australian External Territory;False;False
+HK;CN;PRC Special Administrative Region;False;False
+IM;GB;Crown Dependency of the British Crown;False;False
+JE;GB;Crown Dependency of the British Crown;False;False
+MO;CN;PRC Special Administrative Region;False;False
+MQ;FR;French Overseas Department and Region;False;False
+YT;FR;French Overseas Department and Region;False;False
+MS;GB;British Overseas Territory;False;False
+NC;FR;French Sui Generis Collectivity;False;False
+NU;NZ;Associated State;False;False
+NF;AU;Australian External Territory;False;False
+MP;US;US Insular Area;False;False
+PS;;Palestine Liberation Organization - Palestinian National Authority;True;True
+PN;GB;British Overseas Territory;False;False
+PR;US;US Insular Area;False;False
+RE;FR;French Overseas Department and Region;False;False
+BL;FR;French Overseas Collectivity;False;False
+SH;GB;British Overseas Territory;False;False
+MF;FR;French Overseas Collectivity;False;False
+PM;FR;French Overseas Collectivity;False;False
+SX;NL;Dutch Constituent Country;False;False
+GS;GB;British Overseas Territory;False;False
+SJ;NO;Norwegian Unincorporated Area;False;False
+TW;CN;Province (according to UN);True;True
+TK;NZ;Dependent Territory of New Zealand;False;False
+TC;GB;British Overseas Territory;False;False
+UM;US;Unincorporated, unorganized territories of the United States;False;False
+VG;GB;British Overseas Territory;False;False
+VI;US;US Insular Area;False;False
+WF;FR;French Overseas Collectivity;False;False
+EH;MA;Disputed Territory;False;True
